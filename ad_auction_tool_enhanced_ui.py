@@ -1,4 +1,5 @@
 
+st.caption("🆕 Version: Enhanced UI with Vendor Colors + Date Presets")
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
